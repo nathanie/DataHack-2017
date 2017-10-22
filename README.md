@@ -1,4 +1,4 @@
-# RAFAEL Challenge for DataHack 2017 
+# RAFAEL Challenge - DataHack 2017 
 
 ![It takes a rocket data scientist!](https://github.com/RocketDataScientist/DataHack-2017/blob/master/logo.jpg "It takes a rocket data scientist!")
 
